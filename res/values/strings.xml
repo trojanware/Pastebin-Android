@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, PastebinActivity!</string>
+    <string name="app_name">Pastebin</string>
+    <string name="captionCreateNewPaste">Create New Paste</string>
+	<string name="captionShowPastes">Show Pastes</string>
+	<string name="captionPref">Preferences</string>
+	<string name="userid">trojanware</string>
+	
+	<string-array name="pref_list">
+	    <item>Login</item>	  
+	</string-array>
+	
+	<string-array name="privacy_options">	    
+	    <item>Public</item>
+	    <item>Private</item>	    	    
+	</string-array>
+	
+	<string-array name="expiry_options">	    
+	    <item>Never</item>
+	    <item>10 Minutes</item>
+	    <item>1 Hour</item>
+	    <item>1 Day</item>
+	    <item>1 Month</item>
+	</string-array>
+	
+	<string-array name="defaults_privacy">
+	    <item>Public</item>
+	    <item>Private</item>
+	</string-array>
+	
+	<string-array name="defaults_expiry">
+	    <item>Never</item>
+	    <item>10 Minutes</item>
+	    <item>1 Hour</item>
+	    <item>1 Day</item>
+	    <item>1 Month</item>
+	</string-array>
+	
+	
+	
+	<string-array name="languages_option">
+	    <item>None</item>
+	    <item>4CS</item>
+	    <item>6502 ACME Cross Assembler</item>
+	    <item>6502 Kick Assembler</item>
+	    <item>6502 TASM/64TASS</item>
+	    <item>ABAP</item>
+	    <item>ActionScript</item>
+	    <item>ActionScript 3</item>
+	    <item>Ada</item>
+	    <item>Algol 68</item>
+	    <item>Apache Log</item>
+	    <item>AppleScript</item>
+	    <item>APT Sources</item>
+	    <item>ASM (NASM)</item>
+	    <item>ASP</item>
+	    <item>autoconf</item>
+	    <item>Autohotkey</item>
+	    <item>AutoIt</item>
+	    <item>AviSynth</item>
+	    <item>Awk</item>
+	    <item>BASCOM AVR</item>
+	    <item>Bash</item>
+	    <item>Basic4GL</item>
+	    <item>BibTex</item>
+	    <item>Blitz Basic</item>
+	    <item>BNF</item>
+	    <item>BOO</item>
+	    <item>BrainFuck</item>
+	    <item>C</item>
+	    <item>C For Macs</item>
+	    <item>C Intermediate Language</item>
+	    <item>C#</item>
+	    <item>C++</item>
+	    <item>C++ (with QT extensions)</item>
+	    <item>C: Loadrunner</item>
+	    <item>CAD DCL</item>
+	    <item>CAD Lisp</item>
+	    <item>CFDG</item>
+	    <item>ChaiScript</item>
+	    <item>Clojure</item>
+	    <item>Clone C</item>
+	    <item>Clone C++</item>
+	    <item>CMake</item>
+	    <item>COBOL</item>
+	    <item>CoffeeScript</item>
+	    <item>ColdFusion</item>
+	    <item>CSS</item>
+	    <item>Cuesheet</item>
+	    <item>D</item>
+	    <item>DCS</item>	    
+	    <item>Delphi</item>
+	    <item>Delphi Prism (Oxygene)</item>
+	    <item>Diff</item>
+	    <item>DIV</item>
+	    <item>DOS</item>
+	    <item>DOT</item>
+	    <item>E</item>
+	    <item>ECMAScript</item>
+	    <item>Eiffel</item>
+	    <item>Email</item>
+	    <item>EPC</item>
+	    <item>Erlang</item>
+	    <item>F#</item>
+	    <item>Falcon</item>
+	    <item>FO Language</item>
+	    <item>Formula One</item>
+	    <item>FORTRAN</item>
+	    <item>FreeBasic</item>
+	    <item>FreeSWITCH</item>
+	    <item>GAMBAS</item>
+	    <item>Game Maker</item>
+	    <item>GDB</item>
+	    <item>Genero</item>
+	    <item>Genie</item>	    
+	    <item>GetText</item>
+	    <item>Go</item>
+	    <item>Groovy</item>
+	    <item>GwBasic</item>
+	    <item>Haskell</item>
+	    <item>HicEst</item>
+	    <item>HQ9 Plus</item>
+	    <item>HTML</item>
+	    <item>HTML 5</item>
+	    <item>Icon</item>
+	    <item>IDL</item>
+	    <item>INI file</item>
+	    <item>Inno Script</item>
+	    <item>INTERCAL</item>
+	    <item>IO</item>
+	    <item>J</item>
+	    <item>Java</item>
+	    <item>Java 5</item>
+	    <item>JavaScript</item>
+	    <item>jQuery</item>
+	    <item>KiXtart</item>
+	    <item>Latex</item>
+	    <item>Liberty BASIC</item>
+	    <item>Linden Scripting</item>
+	    <item>Lisp</item>
+	    <item>LLVM</item>
+	    <item>Loco Basic</item>
+	    <item>Logtalk</item>
+	    <item>LOL Code</item>
+	    <item>Lotus Formulas</item>
+	    <item>Lotus Script</item>
+	    <item>LScript</item>
+	    <item>Lua</item>
+	    <item>M68000 Assembler</item>
+	    <item>MagikSF</item>
+	    <item>Make</item>
+	    <item>MapBasic</item>
+	    <item>MatLab</item>
+	    <item>mIRC</item>
+	    <item>MIX Assembler</item>
+	    <item>Modula 2</item>
+	    <item>Modula 3</item>
+	    <item>Motorola 68000 HiSoft Dev</item>
+	    <item>MPASM</item>
+	    <item>MXML</item>
+	    <item>MySQL</item>
+	    <item>newLISP</item>
+	    <item>NullSoft Installer</item>
+	    <item>Oberon 2</item>
+	    <item>Objeck Programming Langua</item>
+	    <item>Objective C</item>
+	    <item>OCalm Brief</item>
+	    <item>OCaml</item>
+	    <item>OpenBSD PACKET FILTER</item>
+	    <item>OpenGL Shading</item>
+	    <item>Openoffice BASIC</item>
+	    <item>Oracle 11</item>
+	    <item>Oracle 8</item>
+	    <item>Oz</item>
+	    <item>Pascal</item>
+	    <item>PAWN</item>
+	    <item>PCRE</item>
+	    <item>Per</item>
+	    <item>Pearl</item>
+	    <item>Pearl 6</item>
+	    <item>PHP</item>
+	    <item>PHP Brief</item>
+	    <item>Pic 16</item>
+	    <item>Pike</item>
+	    <item>Pixel Bender</item>
+	    <item>PL/SQL</item>
+	    <item>PostgreSQL</item>
+	    <item>POV-Ray</item>
+	    <item>Power Shell</item>
+	    <item>PowerBuilder</item>
+	    <item>ProFTPd</item>
+	    <item>Progress</item>
+	    <item>Prolog</item>
+	    <item>Properties</item>
+	    <item>ProvideX</item>
+	    <item>PureBasic</item>
+	    <item>PyCon</item>
+	    <item>Python</item>
+	    <item>q/kdb+</item>
+	    <item>QBasic</item>
+	    <item>R</item>
+	    <item>Rails</item>
+	    <item>REBOL</item>
+	    <item>REG</item>
+	    <item>Robots</item>
+	    <item>RPM Spec</item>
+	    <item>Ruby</item>
+	    <item>Ruby Gnuplot</item>
+	    <item>SAS</item>
+	    <item>Scala</item>
+	    <item>Scheme</item>
+	    <item>Scilab</item>
+	    <item>SdlBasic</item>
+	    <item>Smalltalk</item>
+	    <item>Smarty</item>
+	    <item>SQL</item>
+	    <item>SystemVerilog</item>
+	    <item>T-SQL</item>
+	    <item>TCL</item>
+	    <item>Tera Term</item>
+	    <item>thinBasic</item>
+	    <item>TypoScript</item>
+	    <item>Unicon</item>
+	    <item>UnrealScript</item>
+	    <item>Vala</item>
+	    <item>VB.NET</item>
+	    <item>VeriLog</item>
+	    <item>VHDL</item>
+	    <item>VIM</item>
+	    <item>Visual Pro Log</item>
+	    <item>VisualBasic</item>
+	    <item>VisualFoxPro</item>
+	    <item>WhiteSpace</item>
+	    <item>WHOIS</item>
+	    <item>Winbatch</item>
+	    <item>XBasic</item>
+	    <item>XML</item>
+	    <item>Xorg Config</item>
+	    <item>XPP</item>
+	    <item>YAML</item>
+	    <item>Z80 Assembler</item>
+	    <item>ZXBasic</item>	    
+	    	    	    	    	  
+	</string-array>
+	
+</resources>
